@@ -4,7 +4,7 @@ This project is a responsive React application built for the Week 3 assignment. 
 
 ## Deployed Application
 
-**Live URL:** [Add your Vercel/Netlify URL here]
+**Live URL:** [https://week-3-react-js-assignment-peterkya.vercel.app/]
 
 ## Screenshots of the App
 
