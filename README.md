@@ -62,8 +62,8 @@ src/
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/PLP-MERN-Stack-Development/week-3-react-js-assignment-peterkyalo.git
+    cd week-3-react-js-assignment-peterkyalo
     ```
 
 2.  **Install dependencies:**
