@@ -11,11 +11,11 @@ This project is a responsive React application built for the Week 3 assignment. 
 ### Task Manager
 
 
-![Light Mode Screenshot](task-manager-screenshot.png)
+![Task Manager Page](task-manager-screenshot.png)
 
 ### API Data
 
-![Dark Mode Screenshot](api-data-screenshot.png)
+![API Data Page](api-data-screenshot.png)
 
 ## Features
 
